@@ -14,4 +14,4 @@ To play this game:<br/>
   
 The game uses a fixed length canvas. If it appears smaller or larger, then zoom in or zoom out as needed. Sorry for the inconvenience.
 
-Access this game through this <a href='http://mylinux.langara.bc.ca/~j22/webprogramming-project/'>link</a> and enjoy!!
+<b>Access this game through this <a href='http://mylinux.langara.bc.ca/~j22/webprogramming-project/'>link</a> and enjoy!!</b>
